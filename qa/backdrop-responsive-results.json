@@ -1,0 +1,158 @@
+[
+  {
+    "decorations": 1,
+    "hidden": "true",
+    "images": [
+      {
+        "alt": "",
+        "fit": "cover",
+        "src": "http://127.0.0.1:3187/api/media/22222222-2222-4222-8222-222222222222"
+      }
+    ],
+    "overflow": false,
+    "path": "/vi",
+    "title": "Kiến tạo năng lực số từ tri thức và công nghệ.",
+    "width": 1440
+  },
+  {
+    "decorations": 1,
+    "hidden": "true",
+    "images": [
+      {
+        "alt": "",
+        "fit": "cover",
+        "src": "http://127.0.0.1:3187/api/media/44444444-4444-4444-8444-444444444444"
+      }
+    ],
+    "overflow": false,
+    "path": "/vi",
+    "title": "Kiến tạo năng lực số từ tri thức và công nghệ.",
+    "width": 390
+  },
+  {
+    "decorations": 1,
+    "hidden": "true",
+    "images": [
+      {
+        "alt": "",
+        "fit": "cover",
+        "src": "http://127.0.0.1:3187/api/media/22222222-2222-4222-8222-222222222222"
+      }
+    ],
+    "overflow": false,
+    "path": "/en",
+    "title": "Building digital capability through knowledge and technology.",
+    "width": 1440
+  },
+  {
+    "decorations": 1,
+    "hidden": "true",
+    "images": [
+      {
+        "alt": "",
+        "fit": "cover",
+        "src": "http://127.0.0.1:3187/api/media/44444444-4444-4444-8444-444444444444"
+      }
+    ],
+    "overflow": false,
+    "path": "/en",
+    "title": "Building digital capability through knowledge and technology.",
+    "width": 390
+  },
+  {
+    "decorations": 1,
+    "hidden": "true",
+    "images": [],
+    "overflow": false,
+    "path": "/vi/gioi-thieu",
+    "title": "Công nghệ chỉ có ý nghĩa khi tạo ra giá trị thực",
+    "width": 1440
+  },
+  {
+    "decorations": 1,
+    "hidden": "true",
+    "images": [],
+    "overflow": false,
+    "path": "/vi/gioi-thieu",
+    "title": "Công nghệ chỉ có ý nghĩa khi tạo ra giá trị thực",
+    "width": 390
+  },
+  {
+    "decorations": 1,
+    "hidden": "true",
+    "images": [],
+    "overflow": false,
+    "path": "/en/about",
+    "title": "Technology matters when it creates real value",
+    "width": 1440
+  },
+  {
+    "decorations": 1,
+    "hidden": "true",
+    "images": [],
+    "overflow": false,
+    "path": "/en/about",
+    "title": "Technology matters when it creates real value",
+    "width": 390
+  },
+  {
+    "decorations": 1,
+    "hidden": "true",
+    "images": [
+      {
+        "alt": "",
+        "fit": "cover",
+        "src": "http://127.0.0.1:3187/api/media/22222222-2222-4222-8222-222222222222"
+      }
+    ],
+    "overflow": false,
+    "path": "/vi/giai-phap/ivivi",
+    "title": "iViVi",
+    "width": 1440
+  },
+  {
+    "decorations": 1,
+    "hidden": "true",
+    "images": [
+      {
+        "alt": "",
+        "fit": "cover",
+        "src": "http://127.0.0.1:3187/api/media/44444444-4444-4444-8444-444444444444"
+      }
+    ],
+    "overflow": false,
+    "path": "/vi/giai-phap/ivivi",
+    "title": "iViVi",
+    "width": 390
+  },
+  {
+    "decorations": 1,
+    "hidden": "true",
+    "images": [
+      {
+        "alt": "",
+        "fit": "cover",
+        "src": "http://127.0.0.1:3187/api/media/22222222-2222-4222-8222-222222222222"
+      }
+    ],
+    "overflow": false,
+    "path": "/en/solutions/ivivi",
+    "title": "iViVi",
+    "width": 1440
+  },
+  {
+    "decorations": 1,
+    "hidden": "true",
+    "images": [
+      {
+        "alt": "",
+        "fit": "cover",
+        "src": "http://127.0.0.1:3187/api/media/44444444-4444-4444-8444-444444444444"
+      }
+    ],
+    "overflow": false,
+    "path": "/en/solutions/ivivi",
+    "title": "iViVi",
+    "width": 390
+  }
+]

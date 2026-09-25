@@ -1,0 +1,4 @@
+import { NextRequest, NextResponse } from 'next/server';
+export function proxy(request:NextRequest){const h=new Headers(request.headers);h.set('x-site-lang',(request.nextUrl.pathname.startsWith('/en')||/^\/preview\/[^/]+\/en$/.test(request.nextUrl.pathname))?'en':'vi');const r=NextResponse.next({request:{headers:h}});r.headers.set('X-Content-Type-Options','nosniff');r.headers.set('X-Frame-Options',request.nextUrl.pathname.startsWith('/api/media/')?'SAMEORIGIN':'DENY');r.headers.set('Referrer-Policy','strict-origin-when-cross-origin');r.headers.set('Permissions-Policy','camera=(), microphone=(), geolocation=()');if(request.nextUrl.pathname.startsWith('/admin')||request.nextUrl.pathname.startsWith('/preview')||process.env.ALLOW_INDEXING!=='true')r.headers.set('X-Robots-Tag','noindex, nofollow');return r;}
+export const config={matcher:['/((?!_next/static|_next/image|favicon).*)']};
+

@@ -1,0 +1,58 @@
+{
+  "base": "http://127.0.0.1:3187",
+  "date": "2026-09-25T07:02:11.986Z",
+  "results": [
+    {
+      "name": "Anonymous admin APIs and preview are protected",
+      "passed": true
+    },
+    {
+      "name": "Admin login establishes server session",
+      "passed": true
+    },
+    {
+      "name": "CSRF and cross-origin writes rejected",
+      "passed": true
+    },
+    {
+      "name": "All initial public routes, metadata and VI/EN mappings",
+      "passed": true
+    },
+    {
+      "name": "Create bilingual draft without leaking publicly",
+      "passed": true
+    },
+    {
+      "name": "Upload real image, reject SVG and enforce media privacy",
+      "passed": true
+    },
+    {
+      "name": "Publish separately per language, media becomes available",
+      "passed": true
+    },
+    {
+      "name": "Saving a draft preserves published content and stale writes fail",
+      "passed": true
+    },
+    {
+      "name": "Hide, trash and restore are recoverable and independent of translation",
+      "passed": true
+    },
+    {
+      "name": "Unsafe links rejected and failed save does not alter content",
+      "passed": true
+    },
+    {
+      "name": "Viewer cannot write and media role cannot edit content",
+      "passed": true
+    },
+    {
+      "name": "Contact form disconnected: no storage and truthful failure",
+      "passed": true
+    },
+    {
+      "name": "Revisions and content export are available only to authorized users",
+      "passed": true
+    }
+  ]
+}

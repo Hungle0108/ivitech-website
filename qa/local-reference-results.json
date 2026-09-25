@@ -1,0 +1,21 @@
+{
+  "changedTranslations": 4,
+  "statusesPreserved": true,
+  "schemaValid": true,
+  "privateSourcesHidden": true,
+  "idempotent": true,
+  "sources": [
+    {
+      "id": "A01",
+      "status": "partial"
+    },
+    {
+      "id": "B01",
+      "status": "partial"
+    },
+    {
+      "id": "C01",
+      "status": "partial"
+    }
+  ]
+}

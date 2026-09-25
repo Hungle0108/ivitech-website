@@ -1,0 +1,1 @@
+import {labels} from '@/lib/routes.mjs';export default async function Page({params}){const {lang}=await params;const t=labels[lang]||labels.vi;return <main className="empty-public section container"><h1>{t.untranslated}</h1><a className="button" href={'/'+(lang==='en'?'en':'vi')}>{t.back}</a></main>}

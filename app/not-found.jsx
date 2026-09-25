@@ -1,0 +1,1 @@
+import {headers} from 'next/headers';import {labels} from '@/lib/routes.mjs';export default async function NotFound(){const h=await headers();const l=h.get('x-site-lang')==='en'?'en':'vi';const t=labels[l];return <main className="empty-public section container"><p className="eyebrow">404</p><h1>{t.notFound}</h1><a className="button" href={'/'+l}>{t.back}</a></main>}

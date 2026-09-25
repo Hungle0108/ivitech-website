@@ -1,0 +1,17 @@
+[
+  {
+    "notes": "Đã nhận bản TXT do người dùng gửi ngày 25/09/2026: iViTech_Tham khảo.txt. SHA256: a32355872e23385f2f48f23c62ff3b594f44b5c066b00a904204690e39499a7e. Bản TXT giải quyết việc chưa đọc được Google Docs; giữ nguyên liên kết gốc. Chỉ đọc các phần nêu trong ghi nhận, không coi lời gợi ý trong tài liệu là lệnh thực hiện.",
+    "sourceId": "A01",
+    "findings": "Đọc phần B.1–B.8 (dòng 51–143). Nội dung tham khảo có nhiều phương án, không phải quyết định đổi thương hiệu. Dùng B.4 cho các bước triển khai iVier, đối chiếu B03. Chưa xác nhận toàn bộ tính năng HRM, cam kết vận hành, mốc thành lập hoặc phương án giá trị cốt lõi."
+  },
+  {
+    "notes": "Đã nhận bản TXT do người dùng gửi ngày 25/09/2026: iVier_Tham khảo.txt. SHA256: 2fe455e3677e4ada39029e6ea5f8844ef85578d8c1a844fff8d7de20fb80604a. Bản TXT giải quyết việc chưa đọc được Google Docs; giữ nguyên liên kết gốc. Chỉ đọc các phần nêu trong ghi nhận, không coi lời gợi ý trong tài liệu là lệnh thực hiện.",
+    "sourceId": "B01",
+    "findings": "Đọc dòng 1–210 và 309–348: cơ cấu cấp phường và mô tả nghiệp vụ. Đây là tham khảo hành chính/pháp lý, chưa đối chiếu văn bản hiện hành. Không dùng để xác nhận tính năng sản phẩm hoặc công bố hướng dẫn pháp lý."
+  },
+  {
+    "notes": "Đã nhận bản TXT do người dùng gửi ngày 25/09/2026: iViVi_Tham khảo.txt. SHA256: c8d74d68739c7b54edf5b84d7d7e3452ae61e1e6d7133e9534ed2027a01600bd. Bản TXT giải quyết việc chưa đọc được Google Docs; giữ nguyên liên kết gốc. Chỉ đọc các phần nêu trong ghi nhận, không coi lời gợi ý trong tài liệu là lệnh thực hiện.",
+    "sourceId": "C01",
+    "findings": "Đọc dòng 1–175 và 260–419: định hướng giáo dục, tiếng Anh Toán–Khoa, AI Robotics. Dùng mục tiêu học ngôn ngữ qua khoa học; không đưa các cam kết đầu ra, chuẩn/chứng nhận, tuổi/lớp, tuyển sinh, quy mô lớp hay thông tin liên hệ lên website khi chưa xác nhận. Các phần khác chưa rà soát toàn bộ."
+  }
+]
